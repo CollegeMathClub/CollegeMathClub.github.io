@@ -4,21 +4,21 @@ Westlake College Math club aims to help students teach each other the math class
 
 # Meeting Schedule
 
-Meetings will happen in [TBD] at 4:20 PM on Fridays, and may last for about an hour.
+Meetings will happen in [TBD] at 4:20 PM on Fridays, and may last for about an hour. At meetings, we plan to have discussions, hold competitions, and distribute reviews about that week's topic.
 
 # Want to join yet?
 
-All Eanes ISD students are technically eligible to participate. However, there are certain prerequisites to make sure you get the most out of the course:
+All Eanes ISD students are technically eligible to participate. However, there are certain prerequisites to make sure you get the most out of the discrete math course:
 
 | Class             | What For?                  | Recommendation                                              |
 | ----------------- | -------------------------- | ----------------------------------------------------------- |
 | Algebra           | Everything                 | **Required.**                                               |
 | Geometry          | Formal proofs, logic       | Strongly recommended.                                       |
-| Pre-Calculus      | Induction                  | You'll re-learn it here.                                    |
+| Pre-Calculus      | Induction                  | You'll re-learn this here.                                  |
 | Calculus          | Complexity Theory          | You can learn and use different techniques if you have it.  |
-| Statistics        | Discrete Probability       | You'll re-learn it here.                                    |
-| Computer Science  | Discrete Probability       | You'll re-learn it here.                                    |
-| Linear Algebra    | Matrices & Multiplication  | You'll re-learn it here.                                    |
+| Statistics        | Discrete Probability       | You'll re-learn this here.                                  |
+| Computer Science  | Discrete Probability       | You'll re-learn this here.                                  |
+| Linear Algebra    | Matrices & Multiplication  | You'll re-learn this here.                                  |
 
 Contact Eli Bradley or [TBD] for more information on signing up. Feel free to join the Discord and ask questions! https://discord.gg/P6wRfF9
 
