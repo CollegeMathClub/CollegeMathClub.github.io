@@ -20,7 +20,7 @@ All Eanes ISD students are technically eligible to participate. However, there a
 | Computer Science  | Discrete Probability       | You'll re-learn this here.                                  |
 | Linear Algebra    | Matrices & Multiplication  | You'll re-learn this here.                                  |
 
-Contact Eli Bradley or [TBD] for more information on signing up. Feel free to join the Discord and ask questions! https://discord.gg/P6wRfF9
+Contact Eli Bradley or [TBD] for more information on signing up. Feel free to join the Discord and ask questions! [https://discord.gg/P6wRfF9](https://discord.gg/P6wRfF9)
 
 # Funding
 
