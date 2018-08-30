@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Our Purpose
 
-You can use the [editor on GitHub](https://github.com/CollegeMathClub/CollegeMathClub.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Westlake College Math club aims to help students teach each other the math classes that Westlake doesn't. We plan to start by learning discrete math curriculum, an eclectic subject very useful in computer science. We might continue on to any number of classes, like Differential Equations or Abstract Algebra.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Meeting Schedule
 
-### Markdown
+Meetings will happen in [TBD] at 4:20 PM on Fridays, and may last for about an hour.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Want to join yet?
 
-```markdown
-Syntax highlighted code block
+All Eanes ISD students are technically eligible to participate. However, there are certain prerequisites to make sure you get the most out of the course:
 
-# Header 1
-## Header 2
-### Header 3
+| Class             | What For?                  | Recommendation                              |
+| ----------------- | -------------------------- | ------------------------------------------- |
+| Algebra           | Everything                 | **Required.**                               |
+| Geometry          | Formal proofs, logic       | Strongly recommended.                       |
+| Pre-Calculus      | Induction                  | You'll re-learn it here.                    |
+| Calculus          | Complexity Theory          | You can learn slightly more if you have it. |
+| Statistics        | Discrete Probability       | You'll re-learn it here.                    |
+| Computer Science  | Discrete Probability       | You'll re-learn it here.                    |
+| Linear Algebra    | Matrices & Multiplication  | You'll re-learn it here.                    |
 
-- Bulleted
-- List
+Contact Eli Bradley or [TBD] for more information on signing up.
 
-1. Numbered
-2. List
+# Funding
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CollegeMathClub/CollegeMathClub.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We reserve the right to accept external donations, or to crowdfund when we do require extra monetary resources, or raise funds by any other method, including advertising or publishing and selling materials.
