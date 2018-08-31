@@ -4,7 +4,7 @@ Westlake College Math club aims to help students teach each other the math class
 
 # Meeting Schedule
 
-Meetings will happen in [TBD] at 4:20 PM on Fridays, and may last for about an hour. At meetings, we plan to have discussions, hold competitions, and distribute reviews about that week's topic.
+Meetings will happen in room 301, Ms. Chong's room, at 4:20 PM on Fridays, and may last for about an hour. At meetings, we plan to have discussions, hold competitions, and distribute reviews about that week's topic.
 
 # Want to join yet?
 
@@ -20,7 +20,7 @@ All Eanes ISD students are technically eligible to participate. However, there a
 | Computer Science  | Discrete Probability       | You'll re-learn this here.                                  |
 | Linear Algebra    | Matrices & Multiplication  | You'll re-learn this here.                                  |
 
-Contact Eli Bradley or [TBD] for more information on signing up. Feel free to join the Discord and ask questions! [https://discord.gg/P6wRfF9](https://discord.gg/P6wRfF9)
+Contact Eli Bradley for more information on signing up. Feel free to join the Discord and ask questions! [https://discord.gg/P6wRfF9](https://discord.gg/P6wRfF9)
 
 # Funding
 
