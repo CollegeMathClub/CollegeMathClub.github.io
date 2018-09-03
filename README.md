@@ -22,6 +22,8 @@ All Eanes ISD students are technically eligible to participate. However, there a
 
 Contact Eli Bradley for more information on signing up. Feel free to join the Discord and ask questions! [https://discord.gg/P6wRfF9](https://discord.gg/P6wRfF9)
 
+<iframe src="https://ptb.discordapp.com/widget?id=462364623052472321&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 # Funding
 
 We reserve the right to accept external donations, or to crowdfund when we do require extra monetary resources, or raise funds by any other method, including advertising or publishing and selling materials.
